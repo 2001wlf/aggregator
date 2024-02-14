@@ -1,7 +1,7 @@
 name: checkin
 on:
   schedule:
-    - cron: "40 19 * * *"
+    - cron: "10 20 * * *"
 
 jobs:
   sync_with_upstream:
